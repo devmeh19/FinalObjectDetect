@@ -24,13 +24,7 @@ A real-time object detection system using deep learning models integrated with O
 ---
 
 
-## 🛠 Tech Stack
 
-- Python
-- scikit-learn
-- NLTK
-- pandas, numpy
-- Streamlit (optional)
 
 ---
 
